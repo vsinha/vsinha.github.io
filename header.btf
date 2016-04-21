@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>vsinha.com</title>
+	<style>
+		body {
+			font-size: 1em;
+			line-height: 1.5em;
+			margin: 2em auto;
+			max-width: 40em;
+		}
+	</style>
+</head>
+<body>
+	
+	<div align=''>
+		<h1>Viraj Sinha</h1>
+		<hr>
+		<a href="https://github.com/vsinha">Blog</a>
+		<a href="https://github.com/vsinha">Github</a>
+		<a href="">Twitter</a>
+		<a href="">Linkedin</a>
+		<a href="">Email</a>
+		<hr>
+	</div>
