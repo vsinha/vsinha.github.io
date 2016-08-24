@@ -1,0 +1,56 @@
+body {
+        font-size: 1em;
+        line-height: 1.5em;
+        /*margin: 2em 1em 1em 1em;*/
+        margin: 4em auto;
+        max-width: 40em;
+        font-weight: lighter;
+        font-family: Helvetica, Arial, Sans-Serif;
+}
+
+a {
+        color: black;
+        background-color: #e6f2ff;
+        text-decoration: none;
+}
+
+a:link { 
+}
+
+a:visited {
+}
+
+a:hover {
+        background-color: #99c9ff;
+}
+
+a:active {
+        background-color: #80bbff;
+}
+
+.rc-scout a {
+        all: initial;
+        font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.topRight {
+        text-align: right;
+        position: fixed;
+        top: 2em;
+        right: 2em;
+        z-index: 100;
+}
+
+.topLeft {
+        text-align: right;
+        position: fixed;
+        top: 2em;
+        left: 2em;
+        z-index: 100;
+        position: fixed;
+}
+
+.bandNames {
+        margin: 0 0 0 0;
+}
+
