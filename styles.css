@@ -10,8 +10,10 @@ body {
 
 a {
         color: black;
-        background-color: #e6f2ff;
+        background-color: #bfeeff;
         text-decoration: none;
+        /*padding-left: 2px;*/
+        /*padding-right: 2px;*/
 }
 
 a:link { 
@@ -21,11 +23,11 @@ a:visited {
 }
 
 a:hover {
-        background-color: #99c9ff;
+        background-color: #71d3f7;
 }
 
 a:active {
-        background-color: #80bbff;
+        background-color: #3ac2f4;
 }
 
 .rc-scout a {
@@ -54,3 +56,15 @@ a:active {
         margin: 0 0 0 0;
 }
 
+.mainLinks a {
+        background-color: #ffdbbf;
+}
+
+.mainLinks a:hover {
+        background-color: #ffa968;
+}
+
+
+.mainLinks a:active {
+        background-color: #f99345;
+}
