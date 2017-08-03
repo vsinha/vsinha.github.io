@@ -68,3 +68,9 @@ a:active {
 .mainLinks a:active {
         background-color: #f99345;
 }
+
+.videoContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
