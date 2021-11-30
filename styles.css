@@ -6,6 +6,7 @@ body {
         font-weight: lighter;
         font-family: Helvetica, Arial, Sans-Serif;
         padding: 8px;
+        text-align: center;
 }
 
 a {
@@ -22,6 +23,7 @@ a:active {
 }
 
 .rc-scout a {
+        /* color: #0095DB; */
         all: initial;
         font-family: Helvetica, Arial, Sans-Serif;
 }
@@ -50,14 +52,12 @@ a:active {
 h1 {
         font-weight: bolder;
         font-size: 3em;
-        font-family: "Asul";
 }
 
 h2 {
         line-height: 1.5em;
-        font-weight: 400;
-        font-size: 0.9em;
-        font-family: "Asul";
+        font-weight: 100;
+        font-size: 1.5em;
 }
 
 h2 a {
